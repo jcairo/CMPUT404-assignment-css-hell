@@ -1,0 +1,10 @@
+Cartoon images from gnurf.net:  
+http://www.gnurf.net/v3/wp-content/uploads/2008/01/004-painting.png
+http://www.gnurf.net/v3/wp-content/uploads/2008/01/002-parachute_01.png  
+http://www.gnurf.net/v3/wp-content/uploads/2008/04/033-space-hero.png  
+
+Lens flare from:  
+https://images.search.yahoo.com/images/view;_ylt=AwrB8qHNsuJU3BAA3sGJzbkF;_ylu=X3oDMTIyNTAydTBmBHNlYwNzcgRzbGsDaW1nBG9pZAMyOGM3MjJmZGQ2ZWQ3YTUzYzkzNmE4NjdlNGE5Y2I5MARncG9zAzgEaXQDYmluZw--?.origin=&back=https%3A%2F%2Fimages.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dlens%2Bflare%26n%3D60%26ei%3DUTF-8%26fr%3Dyhs-mozilla-001%26fr2%3Dsb-top-images.search.yahoo.com%26hsimp%3Dyhs-001%26hspart%3Dmozilla%26tab%3Dorganic%26ri%3D8&w=640&h=575&imgurl=www.mylenium.de%2Fstuffpix%2Flight_genflare_3_i.jpg&rurl=http%3A%2F%2Fmyleniumstuff.com%2F2012%2F07%2F05%2Fgenarts-lens-flares-pack-3%2F&size=32.0KB&name=GenArts+%3Cb%3ELens%3C%2Fb%3E+%3Cb%3EFlares%3C%2Fb%3E+Pack+3&p=lens+flare&oid=28c722fdd6ed7a53c936a867e4a9cb90&fr2=sb-top-images.search.yahoo.com&fr=yhs-mozilla-001&tt=GenArts+%3Cb%3ELens%3C%2Fb%3E+%3Cb%3EFlares%3C%2Fb%3E+Pack+3&b=0&ni=144&no=8&ts=&tab=organic&sigr=11vm9ipdd&sigb=15973av34&sigi=11fepd7gf&sigt=11839ii95&sign=11839ii95&.crumb=7VouBaeRV9p&fr=yhs-mozilla-001&fr2=sb-top-images.search.yahoo.com&hsimp=yhs-001&hspart=mozilla  
+
+RSS button from:  
+https://images.search.yahoo.com/images/view;_ylt=AwrB8qHitOJUoDQA2lKJzbkF;_ylu=X3oDMTIyOG5qNzJoBHNlYwNzcgRzbGsDaW1nBG9pZAM4MTc2OWJlODRlODIzOTRmZDM3MTk5MGU4ZDJmNDQwZgRncG9zAzYEaXQDYmluZw--?.origin=&back=https%3A%2F%2Fimages.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Drss%2Bbutton%2Bpng%26fr2%3Dpiv-web%26hsimp%3Dyhs-001%26hspart%3Dmozilla%26tab%3Dorganic%26ri%3D6&w=600&h=600&imgurl=www.clker.com%2Fcliparts%2F4%2Fe%2F2%2Fe%2F13665183762121494816free-yellow-button-rss-hi.png&rurl=http%3A%2F%2Fwww.clker.com%2Fclipart-271367.html&size=82.2KB&name=%3Cb%3ERss%3C%2Fb%3E+Icon+clip+art&p=rss+button+png&oid=81769be84e82394fd371990e8d2f440f&fr2=piv-web&fr=&tt=%3Cb%3ERss%3C%2Fb%3E+Icon+clip+art&b=0&ni=21&no=6&ts=&tab=organic&sigr=118ot66fc&sigb=13l5ksj91&sigi=12g598c7c&sigt=10oi3gt11&sign=10oi3gt11&.crumb=7VouBaeRV9p&fr2=piv-web&hsimp=yhs-001&hspart=mozilla

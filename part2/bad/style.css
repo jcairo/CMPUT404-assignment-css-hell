@@ -1,0 +1,181 @@
+/* line 1, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+body, html {
+  margin: 0px;
+  padding: 0px; }
+
+/* line 6, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0; }
+
+/* line 11, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.me {
+  float: left;
+  padding-left: 2em; }
+
+/* line 15, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+a:link {
+  color: black; }
+
+/* line 19, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+a:visited {
+  color: white; }
+
+/* line 22, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.skills {
+  padding-left: 1em;
+  padding-top: 3em; }
+
+/* line 27, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.experience {
+  padding-left: 1em; }
+
+/* line 31, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.sidebar {
+  width: 30%;
+  position: absolute;
+  right: 0px;
+  top: 310px;
+  background-color: yellow;
+  margin-right: 1em;
+  text-align: center;
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em; }
+  /* line 43, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+  .sidebar h5 {
+    padding-top: 1em; }
+
+/* line 48, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.nav {
+  position: relative;
+  left: 25%;
+  top: -100px;
+  display: inline-block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; }
+  /* line 49, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+  .nav div {
+    font-size: 1em;
+    line-height: 1em;
+    padding-right: 2em;
+    padding-left: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    display: inherit;
+    height: 1em;
+    background: linear-gradient(#FFD800, #FD6200);
+    border: 1px solid black; }
+
+/* line 71, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.main {
+  width: 60%;
+  display: inline-block;
+  margin: 1em; }
+
+/* line 77, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.header {
+  margin-top: 0px;
+  color: white;
+  font-size: 4em;
+  height: 300px;
+  background: linear-gradient(blue, lightblue);
+  text-align: center;
+  line-height: 300px; }
+  /* line 78, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+  .header h2 {
+    margin: 0px;
+    text-shadow: 25px 0px 75px white; }
+
+/* line 91, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.painting {
+  float: left;
+  margin-right: 1em; }
+
+/* line 96, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.hero {
+  padding-top: 3em;
+  padding-right: 1em;
+  float: right; }
+
+/* line 103, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.skills h3 {
+  padding-top: 1.25em;
+  font-size: 1.25em; }
+
+/* line 109, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.experience-guy {
+  padding-top: 2em;
+  float: left;
+  padding-right: 1em; }
+
+/* line 115, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.experience {
+  padding-right: 1em; }
+  /* line 117, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+  .experience h5 {
+    margin: 0;
+    padding-top: 1em; }
+
+/* line 124, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+#workexperience {
+  margin-top: 2em; }
+
+/* line 128, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.flare {
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  left: 0px; }
+
+/* line 135, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.rss {
+  position: absolute;
+  top: 150px;
+  right: 100px; }
+
+/* line 141, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.me {
+  position: absolute;
+  top: 0px;
+  right: 0px; }
+
+/* line 147, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.beta {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+  font-size: 2em;
+  padding: 0.5em;
+  background-color: yellow; }
+
+/* line 156, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.bubble {
+  position: relative;
+  margin-left: 5%;
+  color: white;
+  width: 527px;
+  height: 126px;
+  line-height: 126px;
+  text-align: center;
+  padding: 0px;
+  background: #ff4ffc;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px; }
+
+/* line 171, /Users/jon/Desktop/prj/404A3/part2/bad/style.scss */
+.bubble:after {
+  content: "";
+  position: absolute;
+  bottom: -17px;
+  left: 252px;
+  border-style: solid;
+  border-width: 17px 11px 0;
+  border-color: #ff4ffc transparent;
+  display: block;
+  width: 0;
+  z-index: 1; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,1 @@
+h1 text effect taken from http://www.cssreset.com/creating-four-very-cool-text-effects-using-the-css-text-shadow-property/
